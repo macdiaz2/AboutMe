@@ -1,0 +1,27 @@
+.topSection{
+    display:flex;
+    
+}
+
+.firstRow{
+    display: flex;
+    max-width: 300px;
+    flex:1;
+    align-items: flex-end;
+    
+   
+    
+}
+
+.firstRow p{
+    margin:5px;
+}
+
+.tableDiv{
+    display: flex;
+    padding-right:10px
+
+
+}
+
+
